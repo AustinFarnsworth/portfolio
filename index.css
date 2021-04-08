@@ -70,14 +70,29 @@ a {
 
 .footer-profile {
   background-color: #ff5c3e;
-  height: 8rem;
+  height: 8.5rem;
   bottom: 0;
   position: absolute;
   text-align: center;
   width: 100%;
   padding-bottom: 10px;
+  border-top: 2px solid #fff;
 }
 
 .footer-text {
   color: white;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+  size: 14px;
+}
+
+a:hover {
+  color: #5cd89f;
+}
+
+.find-me {
+  color: blue;
 }
