@@ -55,6 +55,13 @@ a {
   height: 800px;
 }
 
+.profile-pic {
+  width: 10em;
+  border-radius: 50%;
+  position: absolute;
+  right: 50px;
+}
+
 .about {
   height: 800px;
   background-color: #ffffff;
@@ -70,7 +77,7 @@ a {
 
 .footer-profile {
   background-color: #ff5c3e;
-  height: 8.5rem;
+  height: 9rem;
   bottom: 0;
   position: absolute;
   text-align: center;
@@ -79,20 +86,15 @@ a {
   border-top: 2px solid #fff;
 }
 
-.footer-text {
-  color: white;
-}
-
 a {
   color: black;
   text-decoration: none;
-  size: 14px;
 }
 
 a:hover {
   color: #5cd89f;
 }
 
-.find-me {
-  color: blue;
+.fab fa-twitter {
+  height: 10px;
 }
