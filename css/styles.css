@@ -55,6 +55,14 @@ a {
   color: #0088a9;
 }
 
+h1 {
+  text-align: center;
+}
+
+.header-text {
+  text-align: center;
+}
+
 .main {
   height: 800px;
 }
